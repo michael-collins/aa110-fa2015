@@ -10,7 +10,7 @@
 
 **Instructor:** Michael Collins
 
-**Office Hours:** By appointment via email
+**Office Hours:** By appointment via https://mike-collins.youcanbook.me/
 
 **E­mail**: msc227@psu.edu
 
