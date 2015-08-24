@@ -114,7 +114,8 @@ Unsatisfactory work which shows insufficient effort or comprehension.
 Students in the School of Visual Arts may find themselves working in the shop or in their studios or classrooms using a variety of power and hand held equipment, which may cause injury. Students should use the shop only after having received an orientation in the use of such equipment and when supervised by faculty or shop personnel. Should any injuries occur, in the shop, studios, or classrooms in the School of Visual Arts, please report them to Matthew Olsen, Art Shop Coordinator, Room 108­A Visual Arts Building, Phone: 814­865­3962, email:mjo5165@psu.edu.
 
 ##Student Resources
-Going through something? Visit [Counseling & Psychological Services (CAPS)](http://studentaffairs.psu.edu/counseling/)
+Are you going through something that is preventing you from attending class or completing coursework? Visit [Counseling & Psychological Services (CAPS)](http://studentaffairs.psu.edu/counseling/)
+
 If you are working in the studio late at night Police AUX Services will walk you home. Call [814-865-WALK](http://www.transportation.psu.edu/transportation/alt-transportation/walking.cfm) for 'Safe Walk' service.
 
 ##Academic Integrity
