@@ -116,7 +116,7 @@ Students in the School of Visual Arts may find themselves working in the shop or
 ##Student Resources
 Are you going through something that is preventing you from attending class or completing coursework? Visit [Counseling & Psychological Services (CAPS)](http://studentaffairs.psu.edu/counseling/)
 
-If you are working in the studio late at night Police AUX Services will walk you home. Call [814-865-WALK](http://www.transportation.psu.edu/transportation/alt-transportation/walking.cfm) for 'Safe Walk' service.
+If you are working in the studio late at night, Auxiliary Police will walk you home. Call [814-865-WALK](http://www.transportation.psu.edu/transportation/alt-transportation/walking.cfm) for 'Safe Walk' service.
 
 ##Academic Integrity
 University Policies and Rules Guidelines states that academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University's Code of Conduct states that all students should act with personal integrity, respect other students' dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts. Academic integrity includes a commitment not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
