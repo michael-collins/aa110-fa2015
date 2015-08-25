@@ -30,9 +30,10 @@ Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photos
 9. Save your Illustrator file as **_2dposter_yourstudentID.ai_** in the project folder.
 10. Save your Photoshop file as **_2dposter_yourstudentID.psd_** in the project folder.
 11. Save your JPG file as **_2dposter_yourstudentID.jpg_** in the project folder.
-12. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_2dposter_yourstudentID.zip_**
-13. Upload the **_2dposter_yourstudentID.zip_** to the [Exercise 1 Dropbox](https://psu.box.com/signup/collablink/d_4284115953/11da3bdd340295).
-14. Download and unzip the file that you uploaded to ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+12. Double check naming conventions.
+13. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_2dposter_yourstudentID.zip_**
+14. Upload the **_2dposter_yourstudentID.zip_** to the [Exercise 1 Dropbox](https://psu.box.com/signup/collablink/d_4284115953/11da3bdd340295).
+15. Unzip the file that you've uploaded to ensure you’ve included all file assets. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
 
 ##Grading Critera
 Your grade will be assessed according to the **Exercise Grading Criteria**.
