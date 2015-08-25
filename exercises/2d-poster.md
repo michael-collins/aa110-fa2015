@@ -1,6 +1,6 @@
 #Assignment Description
 
-In this exercise, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice composition, color, and typography.
+In this exercise, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice using composition, color theory, and typography to convey meaning.
 
 ##Learning Resources
 
@@ -23,7 +23,7 @@ Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photos
 3. Find a news or magazine article that you think is interesting. 
 4. Create a low-poly vector logo or illustration in Adobe Illustrator representing the article’s main issue, see [examples](https://www.behance.net/search?field=44&search=low+poly).
    `Note: You can NOT use the image included with the article to trace. I recommend using an image that is Creative Commons licensed for derivative use, or using images that are GPL licensed.`
-5. Bring the illustration into Adobe Photoshop. The document size should be **8.5in** by **11in** with **300ppi** resolution.
+5. Bring the illustration into Adobe Photoshop. The document size should be **8.5in** wide by **11in** high with **300ppi** resolution.
 6. Add one word to the canvas that responds to the article’s theme.
 7. Perform additional adjustments the poster including color grading, modifying the typography, adding texture, and adding other design elements.
 8. Export the composited image from Photoshop as a JPG.
