@@ -6,15 +6,16 @@ In this exercise, you will create a 2D low-poly poster using Adobe Illustrator a
 
 **Lynda.com:**
 
-Adobe Illustrator:  [Illustrator CC Essential Training](http://www.lynda.com/Illustrator-tutorials/Illustrator-CC-Essential-Training/122469-2.html)
+   Adobe Illustrator:  [Illustrator CC Essential Training](http://www.lynda.com/Illustrator-tutorials/Illustrator-CC-Essential-Training/122469-2.html)
 
-Adobe Photoshop: [Photoshop CC Essential Training](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Essential-Training/122999-2.html)
+   Adobe Photoshop: [Photoshop CC Essential Training](http://www.lynda.com/Photoshop-tutorials/Photoshop-CC-Essential-Training/122999-2.html)
+
 
 **Digital Tutors:**
 
-Adobe Illustrator: [Tutorial Listing](http://www.digitaltutors.com/11/training.php?tid=1&cid=229)
+   Adobe Illustrator: [Tutorial Listing](http://www.digitaltutors.com/11/training.php?tid=1&cid=229)
 
-Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photoshop-tutorials)
+   Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photoshop-tutorials)
 
 ##Steps to Completion
 
