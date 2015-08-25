@@ -1,6 +1,4 @@
-#2D Poster Design
-
-##Assignment Description
+##2D Poster Design: Assignment Description
 
 In this exercise, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice using composition, color theory, and typography to convey meaning.
 
