@@ -2,9 +2,7 @@
 
 In this exercise, you will create a 2D poster using Adobe Illustrator and Adobe Photoshop.
 
----
-
-###Learning Resources
+##Learning Resources
 
 **Lynda.com:**
 
@@ -18,9 +16,7 @@ Adobe Illustrator: Tutorial Listing
 
 Adobe Photoshop: Tutorial Listing
 
----
-
-###Steps to Completion
+##Steps to Completion
 
 1. Watch tutorials from Lynda or Digital Tutors on Adobe Photoshop and Illustrator
 2. Create a project folder called 2dposter_yourstudentID.
