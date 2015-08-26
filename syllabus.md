@@ -21,6 +21,9 @@
 ##Description
 [Undergraduate Bulletin](http://bulletins.psu.edu/undergrad/courses/A/A&A/110)
 
+##Course Schedule
+[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1qqPWNXqlIeV5oBpBOSjbBNCYKCiJwI7C274rowiyWG0/edit?usp=sharing)
+
 ## Equipment
 1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 2/3 or Thunderbolt.
 2. Portable Headphones with standard 3.5mm jack
