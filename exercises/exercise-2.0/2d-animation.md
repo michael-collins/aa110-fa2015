@@ -1,9 +1,6 @@
-##Exercise 2
+##2D Animation: Ball Bounce
 
-In this exercise, you will produce an animated ball bouncing, a fundamental first lesson for anyone who studies animation. A bouncing ball is harder to animate than one might think, and requires the use of a few of the 12 main [principles of animation](https://en.wikipedia.org/wiki/12_basic_principles_of_animation). Some principles in use in the animation example below include easing (slow in, slow out), squash and stretch, anticipation, arc, and timing.  
-
-
-
+In this exercise, you will produce an animated ball bouncing, a fundamental first lesson for anyone who studies animation. A bouncing ball is harder to animate than one might think, and requires the use of a few of the 12 main [principles of animation](https://en.wikipedia.org/wiki/12_basic_principles_of_animation). Some principles in use in the animation example below include easing (slow in, slow out), squash and stretch, anticipation, arc, and timing.
 
 ##Learning Resources
 
