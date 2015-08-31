@@ -37,4 +37,4 @@ In this exercise, you will create a 2D low-poly poster using Adobe Illustrator a
 15. Unzip the file that you've uploaded to ensure you’ve included all file assets. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
 
 ##Grading Critera
-Your grade will be assessed according to the **Exercise Grading Criteria**.
+Your grade will be assessed according to the [Exercise Grading Criteria](/grading/exercise-grading-criteria.md)
