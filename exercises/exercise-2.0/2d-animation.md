@@ -68,7 +68,7 @@ Puppet Mob Logo Animations: [https://vimeo.com/78389188](https://vimeo.com/78389
 
 1. Watch relevant tutorials
 
-2. Create a project folder called **_ex_2_yourstudentID_**
+2. Create a project folder called **_ballbounce_yourstudentID_**
 
 3. Use Adobe After Effects to create an animation 1 to 3 seconds in length.
 
@@ -90,19 +90,17 @@ Puppet Mob Logo Animations: [https://vimeo.com/78389188](https://vimeo.com/78389
 
         6. [After Effects Export tutorial](https://docs.google.com/document/d/1dj-aZ1UAmXEwH1yGbqMDFeXfcpKRTD2KvamBhpVNhEo/edit?usp=sharing)
 
-    4. Save your After Effects file as **_ex_2_yourstudentID.aep_**
+    4. Save your After Effects file as **_ballbounce_yourstudentID.aep_**
 
     5. Post the H.264 video on Vimeo.com (create an account if you don’t have one)
 
-4. Post the link for the video on the Lore discussion page
+4. Post the link for the video on the Lore.com discussion page
 
-5. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_ex_3_yourstudentID.zip_**
+5. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_ballbounce_yourstudentID.zip_**
 
 6. Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
 
-7. Upload the .zip file to the [Exercise 2 Dropbox](https://psu.box.com/signup/collablink/d_4284116663/113056d8c8fe2d)
-
-
+7. Upload the .zip file to the [Ball Bounce Dropbox](https://psu.box.com/signup/collablink/d_4284116663/113056d8c8fe2d)
 
 
 ##Grading
