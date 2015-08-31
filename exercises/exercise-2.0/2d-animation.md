@@ -107,4 +107,4 @@ Puppet Mob Logo Animations: [https://vimeo.com/78389188](https://vimeo.com/78389
 
 ##Grading
 
-Your grade will be assessed according to the **Exercise Grading Criteria**
+Your grade will be assessed according to the [Exercise Grading Criteria](/grading/exercise-grading-criteria.md)
