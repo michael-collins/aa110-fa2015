@@ -34,7 +34,7 @@ In this exercise, you will create a 2D low-poly poster using Adobe Illustrator a
 12. Double check naming conventions.
 13. Compress(zip) the project folder once you’ve completed the tutorial and rename it **_2dposter_yourstudentID.zip_**
 14. Upload the **_2dposter_yourstudentID.zip_** to the [Exercise 1 Dropbox](https://psu.box.com/signup/collablink/d_4284115953/11da3bdd340295).
-15. Unzip the file that you've uploaded to ensure you’ve included all file assets. Failure to ensure that you’ve uploaded the file will result in your exercise being graded as a late submission, or a 50% reduction in your grade.
+15. Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
 
 ##Grading Critera
 Your grade will be assessed according to the [Exercise Grading Criteria](/grading/exercise-grading-criteria.md)
