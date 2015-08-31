@@ -1,4 +1,4 @@
-**Lecture 3**
+##Lecture 3
 
 1. Recap of last class
 
