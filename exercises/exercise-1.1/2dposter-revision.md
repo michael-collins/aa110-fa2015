@@ -42,7 +42,7 @@ Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photos
 
     3. Include a **150 word minimum** statement about the image
 
-    4. Post a link to the blog post on [lore.com/aa110-fall2015](http://lore.com/aa110-fall2015) → **discussion** page
+    4. Post a link to the blog post on Lore.com → **discussion** page
 
 5. Failure to ensure that you’ve uploaded all relevant assets will result in your exercise being graded as an incomplete or late submission. Please review that you have included all desired files listed in the Steps to Completion.
 
