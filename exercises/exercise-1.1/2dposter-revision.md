@@ -1,6 +1,6 @@
 ##2D Poster Design Revision: Assignment Description
 
-In this exercise, you will create a 2D low-poly poster using Adobe Illustrator and Adobe Photoshop. You will practice using composition, color theory, and typography to convey meaning.
+In this exercise, you will revise your 2D poster based on the feedback you received in the in-class critique. You will then create a blog post with a 150 statement about your poster design and an image of the updated poster design.
 
 ##Learning Resources
 
