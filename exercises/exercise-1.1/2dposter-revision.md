@@ -1,6 +1,6 @@
 ##2D Poster Design Revision: Assignment Description
 
-In this exercise, you will revise your 2D poster based on the feedback you received in the in-class critique. You will then create a blog post with a 150 statement about your poster design and an image of the updated poster design.
+In this exercise, you will revise your 2D poster design based on the feedback you received in the in-class critique. You will then create a blog post with a 150 word statement about your work and embed the image of the updated design.
 
 ##Learning Resources
 
