@@ -18,7 +18,7 @@ In this exercise, you will produce an animated ball bouncing, a fundamental firs
 
 **Tutorials on the Web:**
 
-Youtube: [Graph Editor](https://vimeo.com/27439357)
+Youtube: [Graph Editor](http://cgi.tutsplus.com/tutorials/use-the-graph-editor-to-animate-a-simple-bouncing-ball--ae-22542)
 
 Angry Animator.com: [Bouncing Ball](http://www.angryanimator.com/word/2010/11/26/animation-tutorial-1-bouncing-ball/)
 
