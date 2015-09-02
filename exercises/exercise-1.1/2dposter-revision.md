@@ -30,7 +30,7 @@ Adobe Photoshop: [Tutorial Listing](http://www.digitaltutors.com/software/Photos
 
 1. Revise your poster design
 
-2. Save your JPG file as **_2dposter-revised_yourstudentID.jpg_**.
+2. Save your JPG file as **_2dposter-revision_yourstudentID.jpg_**.
 
 3. [Upload your image to the dropbox](https://psu.box.com/signup/collablink/d_4411095030/112c988fd21f1d)
 
