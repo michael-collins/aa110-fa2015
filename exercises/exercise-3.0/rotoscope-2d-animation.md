@@ -21,7 +21,9 @@ Youtube: [Graph Editor](http://cgi.tutsplus.com/tutorials/use-the-graph-editor-t
 
 Angry Animator.com: [Bouncing Ball](http://www.angryanimator.com/word/2010/11/26/animation-tutorial-1-bouncing-ball/)
 
-CGTuts: [After Effects Tutorial Listing](http://cgi.tutsplus.com/categories/adobe-after-effects)	
+CGTuts: [After Effects Tutorial Listing](http://cgi.tutsplus.com/categories/adobe-after-effects)
+
+Youtube - [Connecting Dots](https://www.youtube.com/watch?v=elHqinIm4RI)
 
 	
 
