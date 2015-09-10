@@ -42,6 +42,12 @@ Collection of Eadweard Muybridge works: [Eadweard Muybridge Online Archive](http
 About Eadweard Muybridge: [Excerpt from Fog City Mavericks](https://vimeo.com/8082912)
 
 
+**Sound:**
+
+[Freesound.org](https://freesound.org)
+
+[List of Sound Websites](http://www.hongkiat.com/blog/55-great-websites-to-download-free-sound-effects/)
+
 
 ##Steps to Completion
 
