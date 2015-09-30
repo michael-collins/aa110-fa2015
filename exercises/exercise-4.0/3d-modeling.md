@@ -3,7 +3,7 @@
 
 In this exercise, you will gain familiarity with polygonal modeling in industry standard 3D software, Autodesk Maya. You will only be responsible for the polygonal model in this exercise. The design brief will continue for following 3D exercises on texturing, and animation.
 
-###Theme:
+###Design Brief:
 
 Design an Animated Architectural Fantasy for this [mad libs](https://en.wikipedia.org/wiki/Mad_Libs) style theme: **"How might we ________ ?"**
 
@@ -96,7 +96,7 @@ You can choose to tackle a theme prevalent in popular media related to topics ra
 
 ##Steps to Completion
 
-1. Watch the Autodesk Maya tutorials, or purchase a textbook to learn from.
+1. Watch the Autodesk Maya tutorials, or see releant chapters in one of the textbooks.
 
 2. Research your theme.
 
