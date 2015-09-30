@@ -114,7 +114,7 @@ You can choose to tackle a theme prevalent in popular media related to topics ra
 
     4. Save JPG texture as **_3d_texture_01_yourstudentID.jpg_**
 
-    5. Save additional JPG textures with with the following naming convention: **_3d_texture_****_##_****_yourstudentID.jpg_**
+    5. Save additional JPG textures with with the following naming convention: **_3d_texture__****_##__****_yourstudentID.jpg_**
 
     6. Place files into "sourceimages" folder
 
