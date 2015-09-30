@@ -106,7 +106,7 @@ You can choose to tackle a theme prevalent in popular media related to topics ra
 
 3. Create 2D textures and apply them to your polygonal model.
 
-4. [Unwrap](http://www.lynda.com/Maya-tutorials/Using-UV-Texture-Editor/162450/179979-4.html) your model’s UVs and save the UV snapshot as **_ex_5.2_uv_01_yourstudentID.jpg_**
+4. [Unwrap](http://www.lynda.com/Maya-tutorials/Using-UV-Texture-Editor/162450/179979-4.html) your model’s UVs and save the UV snapshot as **_3d-texture_uv_yourstudentID.jpg_**
 
     3. Place this file into the "sourceimages" folder
 
