@@ -5,7 +5,7 @@
 3. Animation Demo in Maya (lynda.psu.edu [Animation Tutorials](http://www.lynda.com/Maya-tutorials/Understanding-animation-interface/370380/413285-4.html))
    1. Timeline
    2. Set Keys
-     1. Autokeyframe
+     1. Auto Keyframe
      2. Breakdown Keys
    3. Ghost Selected Frames
    4. Editable Motion Trail
