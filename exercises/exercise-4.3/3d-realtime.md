@@ -101,7 +101,7 @@ You can choose to tackle a theme prevalent in popular media related to topics ra
    1. Write about your step by step process in developing this work.
    2. Embed overview image(s) of UV Layout over the texture file with a corresponding screenshots of the polygonal model in the Maya perspective viewport.
    3. Embed the SketchFab.com viewer in your blog post.
-4. Post a link on Lore's Discussion page.
+4. Post a link to the blog post on Lore.com → **discussion** page
 
 
 ##Grading
