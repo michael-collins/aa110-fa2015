@@ -95,7 +95,7 @@ You can choose to tackle a theme prevalent in popular media related to topics ra
 
 
 ##Steps to Completion
-1. Upload your files to SketchFab.com 
+1. Upload your files to SketchFab.com - [SketchFab Upload Help](https://help.sketchfab.com/hc/en-us/sections/200485707-Uploading-3D-Models)
 2. Configure the way your scene is rendered using SketchFab's rendering tools.
 3. Create a blog post like [this one](http://blog.sketchfab.com/post/130621605739/art-spotlight-fishermans-house). Include the following:
    1. Write about your step by step process in developing this work.
