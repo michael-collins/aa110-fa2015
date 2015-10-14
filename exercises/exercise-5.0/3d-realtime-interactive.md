@@ -86,7 +86,9 @@ In this exercise, you will gain familiarity adding and modifying scripts to cont
 
 8. OPTIONAL: Configure your scene and add any more desired keyboard or mouse interaction, lighting, camera steup, etc. through following tutorials located in [PlayCanvas Developer Resources](http://developer.playcanvas.com/en/tutorials/).
 
-9. Go to the project page on PlayCanvas.com and click on **Publish**. If you made modifications to mouse or keyboard interactivity, write a desiption of how a viwer can interact with your 3D scene. Copy the link and paste it to **Lore.com** → **Discussion**. Submit your link to the [Exercise 5.0 Dropbox](https://psu.box.com/signup/collablink/d_4284118501/11e9c9e76f13f5)
+9. In the Project Settings, write a desiption of how a viwer can interact with your 3D scene. The default functionality is to press "S" on the keyboard to trigger the scene animation.
+
+10. Go to the project page on PlayCanvas.com and click on **Publish**. Copy the link and paste it to **Lore.com** → **Discussion**. Submit your link to the [Exercise 5.0 Dropbox](https://psu.box.com/signup/collablink/d_4284118501/11e9c9e76f13f5)
 
 
 
