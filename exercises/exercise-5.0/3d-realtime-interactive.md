@@ -23,7 +23,7 @@ In this exercise, you will gain familiarity adding and modifying scripts to cont
 
 3. Create a New Project
 
-   a.Log into PlayCanvas
+   a. Log into PlayCanvas
    
    b. Click on the **Projects** tab and click **New+** on the top right.
    
