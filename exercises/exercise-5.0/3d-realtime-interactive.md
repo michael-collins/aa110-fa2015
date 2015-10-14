@@ -56,7 +56,7 @@ In this exercise, you will gain familiarity adding and modifying scripts to cont
    
    d. You should see your materials applied to your model in PlayCanvas. See [Materials Documentation](http://developer.playcanvas.com/en/tutorials/beginner/basic-materials/) for more details.
 
-6. Add interactivity to your animations with PlayCanvas. 	
+6. Add interactivity to your scene.	
    
    a. Select your Model in the **Hierarchy panel** and click on **Add Component** in the **Entity panel**.
 
