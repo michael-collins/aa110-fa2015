@@ -56,7 +56,35 @@ In this exercise, you will gain familiarity with scripting and interactive 3d en
    
    d. You should see your materials applied to your model in PlayCanvas. See [Materials Documentation](http://developer.playcanvas.com/en/tutorials/beginner/basic-materials/) for more details.
 
-6. Add interactivity to your animations with PlayCanvas
+6. Add interactivity to your animations with PlayCanvas. 	
+   
+   a. Select your Model in the **Hierarchy panel** and click on **Add Component** in the **Entity panel**.
+
+   c. Choose **Animation** from the dropdown list.
+   
+   d. In the **Animation** section, choose **Add Animation** and select both FBX files from the assets panel.
+   
+   e. To add a script, click on **Add Component** in the **Entity panel** and choose script.
+   
+   f. Choose **Add Script** from the **Scripts** section and click on **Add Asset** from the assets panel.
+   
+   g. Choose **Script** from the dropdown list and name the script **_animation-blending.js_**.
+   
+   h. Now click on the newly created **_animation-blending.js_** script to add it into the Scripts section in the Entity panel.
+   
+   i. Click on **_animation-blending.js_** in the Scripts section in the Entity panel to open the script in a new browser tab.
+
+   j. Paste the code from this file into the script editor. [animation-blending.js](https://raw.githubusercontent.com/michael-collins/aa110-fa2015/master/exercises/exercise-5.0/animation-blending.js).
+   
+   k.  Change `YOUR_IDLE_ANIMATION_FILE_HERE` to `scene_idle` and `YOUR_ANIMATED_FILE_HERE` to `scene_animated`. This will link the FBX files that you added to the Animation section in the Entity panel to this script.
+   
+   l. Click **Save**:
+   
+7. Test your scene
+   
+   a. In the scene editor, click on the play button at the top to compile your scene and view it in a new browser. Press "S" on the keyboard to see if the animation blending is working. If you get errors, look at what they are saying, and attempt to fix the animation-blending.js file accordingly. Most likely you mispelled the names of the FBX files that were added to the Animation section, either in the file's name or where it is referenced in the script.
+
+8. If you are able to successfully trigger the animation without causing errors, you are finished. However, feel free to configure your scene and add any more desired keyboard or mouse interaction, lighting, camera steup, etc. through following tutorials located in [PlayCanvas Developer Resources](http://developer.playcanvas.com/en/tutorials/).
    
    
 
