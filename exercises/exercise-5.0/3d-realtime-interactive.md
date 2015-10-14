@@ -1,7 +1,7 @@
 ##3D Realtime Interactive
 	
 
-In this exercise, you will gain familiarity with scripting and interactive 3d environment tools. Using your work from Exercise 4.3, you will be importing relevant assets into Playcanvas.com, and creating interactivity.
+In this exercise, you will gain familiarity adding and modifying scripts to control 3D scenes. Using your work from Exercise 4.3, you will be importing relevant assets into Playcanvas.com, and creating interactivity. Ultimately, this assignment is complete when you can use the keyboard to trigger a change in the state of animation in the 3D scene. 
 
 
 ##Learning Resources
@@ -74,7 +74,7 @@ In this exercise, you will gain familiarity with scripting and interactive 3d en
    
    i. Click on **_animation-blending.js_** in the Scripts section in the Entity panel to open the script in a new browser tab.
 
-   j. Paste the code from this file into the script editor. [animation-blending.js](https://raw.githubusercontent.com/michael-collins/aa110-fa2015/master/exercises/exercise-5.0/animation-blending.js).
+   j. Paste the code from this file into the script editor [animation-blending.js](https://raw.githubusercontent.com/michael-collins/aa110-fa2015/master/exercises/exercise-5.0/animation-blending.js).
    
    k.  Change `YOUR_IDLE_ANIMATION_FILE_HERE` to `scene_idle` and `YOUR_ANIMATED_FILE_HERE` to `scene_animated`. This will link the FBX files that you added to the Animation section in the Entity panel to this script.
    
@@ -84,9 +84,11 @@ In this exercise, you will gain familiarity with scripting and interactive 3d en
    
    a. In the scene editor, click on the play button at the top to compile your scene and view it in a new browser. Press "S" on the keyboard to see if the animation blending is working. If you get errors, look at what they are saying, and attempt to fix the animation-blending.js file accordingly. Most likely you mispelled the names of the FBX files that were added to the Animation section, either in the file's name or where it is referenced in the script.
 
-8. If you are able to successfully trigger the animation without causing errors, you are finished. However, feel free to configure your scene and add any more desired keyboard or mouse interaction, lighting, camera steup, etc. through following tutorials located in [PlayCanvas Developer Resources](http://developer.playcanvas.com/en/tutorials/).
-   
-   
+8. OPTIONAL: Configure your scene and add any more desired keyboard or mouse interaction, lighting, camera steup, etc. through following tutorials located in [PlayCanvas Developer Resources](http://developer.playcanvas.com/en/tutorials/).
+
+9. Go to the project page on PlayCanvas.com and click on **Publish**. If you made modifications to mouse or keyboard interactivity, write a desiption of how a viwer can interact with your 3D scene. Copy the link and paste it to **Lore.com** → **Discussion**
+
+
 
 ##Grading
 
