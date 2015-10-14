@@ -14,8 +14,10 @@ In this exercise, you will gain familiarity adding and modifying scripts to cont
 
 ##Steps to Completion
 1. Open your Exercise 4.3 project files, and export two FBX versions.
-  a. **_scene_idle.fbx_** (This files contains a scene with idle animation or keyframes with no animation)
-  b. **_scene_animated.fbx_** (this file contains the same scene fully animated)
+  
+   a. **_scene_idle.fbx_** (This files contains a scene with idle animation or keyframes with no animation)
+   
+   b. **_scene_animated.fbx_** (this file contains the same scene fully animated)
 
 2. Create an account on [PlayCanvas.com](http://playcanvas.com).
 
