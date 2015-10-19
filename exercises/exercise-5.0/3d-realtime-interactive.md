@@ -88,7 +88,7 @@ In this exercise, you will gain familiarity adding and modifying scripts to cont
 
 9. In the Project Settings, upload a 720px by 720px image of your scene and write a description of how a viwer can interact with your 3D scene. The default functionality is to press "S" on the keyboard to trigger the scene animation. See this [example project:](https://playcanvas.com/michael-collins)
 
-10. Go to the project page on PlayCanvas.com and click on **Publish**. Copy the link and paste it to **Lore.com** → **Discussion**. Submit your link to the [Exercise 5.0 Dropbox](https://psu.box.com/signup/collablink/d_4284118501/11e9c9e76f13f5)
+10. Go to the project page on PlayCanvas.com and click on **Publish**. Copy the link and paste it to **Lore.com** → **Discussion**. Submit the link to your playcanvas.com Projects page in a file called **_playcanvas_studentid.txt_** to [Exercise 5.0 Dropbox](https://psu.box.com/signup/collablink/d_4284118501/11e9c9e76f13f5)
 
 
 
