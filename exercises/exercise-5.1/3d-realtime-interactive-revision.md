@@ -1,4 +1,4 @@
-##3D Realtime Interactive
+##3D Realtime Interactive Revision
 	
 
 In this exercise, you will revise your 3d interactive animation based on the feedback you received in the in-class critique. You will then create a blog post with a 150 word statement about your work and post a link to the published PlayCanvas scene with a screenshot of the scene.
