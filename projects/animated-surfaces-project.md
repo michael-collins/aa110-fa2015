@@ -8,4 +8,4 @@ Stop motion video of multiple animated surfaces
 
 ##Requirements
 
-Project must use CNC fabrication technology such as a laser cutter, 3D printer, polygon-based papercraft
+Project must use CNC fabrication technology such as a laser cutter, 3D printer, laser scanning, robot arm, or polygon-based papercraft.
