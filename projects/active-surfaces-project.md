@@ -35,7 +35,7 @@ Post all deliverables to team box account.
   Include names of group members  
 
 **Nov. 9, 2015:** Statement of Intent  
-  Naming convention: `group#_intentstatement.doc`
+  Naming convention: `group#_intentstatement.doc`  
   150 Word minimum  
   Include names of group members
 
