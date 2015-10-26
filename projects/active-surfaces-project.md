@@ -27,8 +27,7 @@ Post all deliverables to team box account.
 
 **Nov. 2, 2015: Form team**  
   Choose partner(s)  
-  Look at the exhibition space  
-  create a box.psu.edu submission folder
+  create a box.psu.edu submission folder  
   Box submission folder: `group#_final`
 
 **Nov. 9, 2015: Concept Drawings**  
