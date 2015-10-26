@@ -1,15 +1,15 @@
-##Animated Surfaces on Fabricated Objects
+##Digital Fabrication with Active Surfaces
 
 **Project Details**
-In this project, you will work in small teams with a variety of software and technical processes to create a digitally designed and fabricated object in a live environment. This project will culminate in a collective exhibition of work.
+In this project, you will work in small teams with a variety of software and technical processes to create a digitally designed and fabricated object or set in a live environment. You must activate the surfaces of the fabrcation through 2D or 3D animation. This project will culminate in a collective exhibition of work.
 
 **The exhibition's theme is: **
 
 **Work format type*
 
 1. Live digital projection onto objects (Projection Mapping)
-2. Video of textures/projections applied to fabricated surfaces (Stop motion 2D animation)
-3. Video of multiple animated surfaces (Stop motion 2D animation)
+2. Video compiliation of textures or projections applied to fabricated surfaces (Stop motion 2D animation)
+3. Video compiliation of multiple animated objects (Stop motion 2D animation)
 4. Any combination of the above types
 
 **You will produce the following during this project:**
