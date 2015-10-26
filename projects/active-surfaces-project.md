@@ -5,7 +5,7 @@ In this project, you will work in small teams with a variety of software and tec
 
 **The exhibition's theme is: **
 
-**Work format type*
+**Work format type**
 
 1. Live digital projection onto objects (Projection Mapping)
 2. Video compiliation of textures or projections applied to fabricated surfaces (Stop motion 2D animation)
