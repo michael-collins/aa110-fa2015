@@ -3,7 +3,8 @@
 **Project Details**  
 In this project, you will work in small teams with a variety of software and technical processes to create a digitally designed and fabricated object or set in a live environment. You must activate the surfaces of the fabrcation through 2D or 3D animation. This project will culminate in a collective exhibition of work.
 
-**The exhibition's theme is: **
+**Exhibition's theme:**  
+
 
 **Work format type**
 
