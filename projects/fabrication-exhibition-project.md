@@ -1,4 +1,4 @@
-##Digital Fabrication with Active Surfaces
+##Digital Fabrication Exhibition
 
 **Project Details**  
 In this project, you will work in small teams with a variety of software and technical processes to create a digitally designed and fabricated object or set in a live environment. You must activate the surfaces of the fabrcation through 2D or 3D animation. This project will culminate in a collective exhibition of work.
@@ -41,7 +41,7 @@ In making work for this exhibition, consider what would this place look like, wh
 Post all deliverables to team box account.
 
 **Nov. 2, 2015: Form team**  
-  Choose partner(s)  
+  Choose group member(s)  
   Make folder called `group#_finalproject` on box.psu.edu (1 per team)  
   Ensure all team members are added as collaborators  
   Keep a backup of all project prodution files in a folder called `production`  
