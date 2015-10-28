@@ -24,6 +24,18 @@ In making work for this exhibition, consider what would this place look like, wh
   5. A class-wide installation for the projection mapping exhibition
 
 
+##Production Resources
+
+[Projection Mapping](https://gist.github.com/michael-collins/b534b93ff5f94089b63a)
+
+[Papercraft](https://gist.github.com/michael-collins/bb4328553bb691d613e9)
+
+##Inspiration
+
+[Spaculative Tate](http://www.tate.org.uk/whats-on/tate-britain/eventseries/speculative-tate)
+
+["United Micro Kingdoms" - (2012/2013), Dune and Raby](http://www.unitedmicrokingdoms.org/)
+
 ##Timeline and deliverables
 
 Post all deliverables to team box account.
@@ -63,20 +75,6 @@ Post all deliverables to team box account.
 **Dec. 9, 2015:** Exhibition and Critiques
 
 **Dec. 11, 2015:** Photo and/or video Documentation
-
-##Production Resources
-
-[Projection Mapping](https://gist.github.com/michael-collins/b534b93ff5f94089b63a)
-
-[Papercraft](https://gist.github.com/michael-collins/bb4328553bb691d613e9)
-
-##Inspiration
-
-[Spaculative Tate](http://www.tate.org.uk/whats-on/tate-britain/eventseries/speculative-tate)
-
-["United Micro Kingdoms" - (2012/2013), Dune and Raby](http://www.unitedmicrokingdoms.org/)
-
-
 
 ##Steps to Completion
 
