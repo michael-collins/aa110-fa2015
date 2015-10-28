@@ -42,16 +42,20 @@ Post all deliverables to team box account.
 
 **Nov. 2, 2015: Form team**  
   Choose partner(s)  
-  create a box.psu.edu submission folder  
-  Box submission folder: `group#_final`
+  Make folder called `group#_finalproject` on box.psu.edu (1 per team)  
+  Ensure all team members are added as collaborators  
+  Keep a backup of all project prodution files in a folder called `production`  
+  Email link to project folder to instructor with downloading permissions  
 
 **Nov. 9, 2015: Concept Drawings**  
   Naming convention: `group#_drawings#.jpg`  
+  Upload to Box project folder  
   Include names of group members  
 
 **Nov. 9, 2015:** Statement of Intent  
   Naming convention: `group#_intentstatement.doc`  
   150 Word minimum  
+  Upload to Box project folder  
   Include names of group members
 
 **Nov. 16, 2015: In-class production check-in with instructor**  
@@ -60,6 +64,7 @@ Post all deliverables to team box account.
 **Nov. 18, 2015: Fabrication plan**  
   Written explanation of how you intend to fabricate the projection surface including processes, material costs, and labor involved  
   Naming convention: `group#_fabricationplan.doc`  
+  Upload to Box project folder  
   Include names of group members
 
 **Dec. 2, 2015: Demonstration of feasibility**    
@@ -69,12 +74,14 @@ Post all deliverables to team box account.
 **Dec. 9, 2015: Work statement**  
   The statement describes your work and it’s relationship to the exhibition theme  
   Naming convention: `group#_workstatement.doc`  
+  Upload to Box project folder  
   250 Word minimum  
   Include names of group member
 
 **Dec. 9, 2015:** Exhibition and Critiques
 
-**Dec. 11, 2015:** Photo and/or video Documentation
+**Dec. 10, 2015:** Photo and/or video Documentation  
+Make folder called `Documentation` in Box project folder and add documentation
 
 ##Steps to Completion
 
