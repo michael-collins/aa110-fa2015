@@ -4,7 +4,7 @@
 In this project, you will work in small teams with a variety of software and technical processes to create a digitally designed and fabricated object or set in a live environment. You must activate the surfaces of the fabrcation through 2D or 3D animation. This project will culminate in a collective exhibition of work.
 
 **Exhibition theme: Virtual Place**  
-Any community has three kinds of places including. A _first_ place refers to the home, a _second_ place refers to work, and a _third_ place refers to neutral, welcoming environments like cafés, parks, or other low cost or approachable locations. As technology evolves, _third_ places are now manifesting virtually as games, 3D community spaces, chat rooms, etc. Can we concieve of some other kind of virtual place?
+Any community has three kinds of places, A first, second, and third place. A _first_ place refers to the home, a _second_ place refers to work, and a _third_ place refers to neutral, welcoming environments like cafés, parks, or other low cost or approachable locations. As technology evolves, _third_ places are now manifesting virtually as games, 3D community spaces, chat rooms, etc. Can we concieve of some other kind of virtual place?
 
 In making work for this exhibition, consider what would this place look like, what you would want do there, and how would you engage with it? Would there be analogues to physical archetecture, would there be interaction, or communication? Your work can be a working example of this place, be a speculative artifact that one might find in such a place, or provide a description and provoke discussion about the theme. You do not need to interpret the theme in a literal sense, but may describe overarching concepts or identify subthemes.
 
