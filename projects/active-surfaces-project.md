@@ -8,7 +8,7 @@ Any community has three kinds of places, A first, second, and third place. A _fi
 
 In making work for this exhibition, consider what would this place look like, what you would want do there, what it's purpose would be, how it was manifested, and how would you engage with it? Would there be analogues to physical archetecture, would there be passive/active interaction, or communication? Your work can be a working example of this place, be a speculative artifact that one might find in such a place, or provide a description and provoke discussion about the theme. You do not need to interpret the theme in a literal sense, but may describe overarching concepts or identify subthemes.
 
-**Work format type**
+**Work format type options**
 
 1. Live digital projection onto objects (Projection Mapping)
 2. Video compiliation of textures or projections applied to fabricated surfaces (Stop motion 2D animation)
