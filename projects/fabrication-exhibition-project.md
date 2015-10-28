@@ -23,6 +23,9 @@ In making work for this exhibition, consider what would this place look like, wh
   4. Sound that corresponds with the animation
   5. A class-wide installation for the projection mapping exhibition
 
+##Reading
+
+[Inverted World](http://www.npr.org/templates/story/story.php?storyId=93691775)
 
 ##Production Resources
 
