@@ -109,5 +109,5 @@ Make folder called `Documentation` in Box project folder and add documentation
 
 ##Grading
 
-Your grade will be assessed according to the Project Grading Criteria.
+Your grade will be assessed according to the [Project Grading Criteria](https://docs.google.com/document/d/1dnxsVs0DS3OD_dpcBUwP6vDZkve5XxnQyYBJrLdxkLw/edit?usp=sharing).
 
