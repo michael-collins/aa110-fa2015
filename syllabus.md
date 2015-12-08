@@ -57,16 +57,17 @@ LATE EXERCISES AND PROJECTS WILL NOT BE GRADED. Attendance is mandatory and prof
 ##Grading
 
 ###Exercises
-Approximately 10 exercises (25% Total)
+Approximately 10 exercises (~33% Total) ~~(25% Total)~~
 
 ###Blog
-At least 5 blog posts (25% Total)
+~~At least 5 blog posts (25% Total)~~
+(Blog posts combined with exercises)
 
 ###Projects
-1 Final project (25% Total)
+1 Final project (~33% Total) ~~(25% Total)~~
 
 ###Class Participation
-Participation (25% Total)
+Participation (~33% Total) ~~(25% Total)~~
 
 ###Grading Scale
 | Letter Grade    | Minimum Percent |
